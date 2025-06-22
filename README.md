@@ -1,8 +1,8 @@
 # Prerequisites
-#
+# dupa dupa dupa
 ###
-- JDK 21
-- Maven 3.9 
+- JDK 20
+- Maven 30
 - MySQL 8
 
 # Technologies 
